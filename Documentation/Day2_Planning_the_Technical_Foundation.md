@@ -43,17 +43,19 @@ With the completion of Day 2 tasks, this README now meets the objectives outline
     
 1 - **Basic system architecture showing the relationship between frontend, Sanity CMS, and third-party APIs**
 
+
 ![Basic System Architect](https://github.com/user-attachments/assets/62db28c0-0505-4f75-a21a-9fcb7247bc10)
---
+---
 
 2 - **Data flow for product browsing and order placement**
 
-
---
+![data-work-flow](https://github.com/user-attachments/assets/ea9f4376-8e8a-4983-a401-4224f9fc5e81)
+---
 
 3 - **User registration workflow**
 
---
+![user-registration](https://github.com/user-attachments/assets/8f2b4451-b1b2-4119-94f4-512886813f41)
+---
 
 4 - **Order processing workflow with shipping integration**
 
@@ -62,7 +64,7 @@ With the completion of Day 2 tasks, this README now meets the objectives outline
 -------
 ![Basic-work-flow](https://github.com/user-attachments/assets/fcacae1d-11f3-4218-bc8e-bf0693bc2b19)
 
----
+-------
 ### API Documentation - Solangi Woods
 
 #### Key API Endpoints

@@ -40,7 +40,7 @@ With the completion of Day 2 tasks, this README now meets the objectives outline
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-
+    
 1 - **Basic system architecture showing the relationship between frontend, Sanity CMS, and third-party APIs**
 
 ![Basic System Architect](https://github.com/user-attachments/assets/62db28c0-0505-4f75-a21a-9fcb7247bc10)
@@ -58,6 +58,10 @@ With the completion of Day 2 tasks, this README now meets the objectives outline
 
 4 - **Order processing workflow with shipping integration**
 
+![order-flow-cropped](https://github.com/user-attachments/assets/c5b7d839-1cca-42ff-a2cd-6d1e25b90331)
+
+
+-------------------------------------------
 ![order-flow](https://github.com/user-attachments/assets/16307c39-16cd-49a6-b958-420661293688)
 
 -------

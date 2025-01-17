@@ -48,24 +48,19 @@ With the completion of Day 2 tasks, this README now meets the objectives outline
 
 2 - **Data flow for product browsing and order placement**
 
-![user-data-flow](https://github.com/user-attachments/assets/560c8757-b430-4161-befd-be7532510e45)
+
 --
 
 3 - **User registration workflow**
 
-![user-data-flow](https://github.com/user-attachments/assets/c048703e-4193-4bd2-b631-19d083b74d44)
 --
 
 4 - **Order processing workflow with shipping integration**
 
-![order-flow-cropped](https://github.com/user-attachments/assets/c5b7d839-1cca-42ff-a2cd-6d1e25b90331)
 
-
--------------------------------------------
-![order-flow](https://github.com/user-attachments/assets/16307c39-16cd-49a6-b958-420661293688)
-
+![order-flow](https://github.com/user-attachments/assets/839508bf-6860-49d5-b102-2546db93745a)
 -------
-![user-workflow](https://github.com/user-attachments/assets/cadbe927-b696-45e5-9999-0efa3a19d812)
+![Basic-work-flow](https://github.com/user-attachments/assets/fcacae1d-11f3-4218-bc8e-bf0693bc2b19)
 
 ---
 ### API Documentation - Solangi Woods
